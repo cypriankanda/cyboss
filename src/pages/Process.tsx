@@ -49,8 +49,8 @@ const processSteps = [
 const founder = {
   name: 'Cyprian Kanda',
   role: 'Founder & CEO',
-  bio: 'With over a decade of experience in software development and digital innovation, Cyprian leads Cyboss Design & Code with a vision to transform businesses through technology.',
-  image: '/cbk.JPG',
+  bio: 'With over 4 years of experience in software development and digital innovation, Cyprian leads Cyboss Design & Code with a vision to transform businesses through technology.',
+  image: '../assets/cbk.JPG',
   social: {
     linkedin: 'https://www.linkedin.com/in/cyprian-kanda-boit/',
     twitter: 'https://twitter.com/cypriankanda',

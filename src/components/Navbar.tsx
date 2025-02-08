@@ -22,7 +22,7 @@ export default function Navbar() {
             <img 
               src="/cyboss.png"
               alt="Logo"
-              className="h-16 w-26"
+              className="h-36 w-40"
             />
           </Link>
 
