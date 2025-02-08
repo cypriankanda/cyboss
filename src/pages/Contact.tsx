@@ -165,12 +165,12 @@ export default function Contact() {
             <h2 className="text-2xl font-bold mb-6">Our Location</h2>
             <div className="aspect-w-16 aspect-h-9">
               <img
-                src="https://images.unsplash.com/photo-1573495612913-5dc569bb0ba8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80"
+                src="../assets/office.JPG"
                 alt="Nairobi City"
                 className="w-full h-96 object-cover rounded-lg"
               />
             </div>
-            <p className="text-gray-600 dark:text-gray-300 text-center mt-4">Nairobi, Kenya</p>
+            <p className="text-gray-600 dark:text-gray-300 text-center mt-4">Nairobi Garage, Pinetree Plaza Kilimani</p>
           </div>
         </div>
       </section>
